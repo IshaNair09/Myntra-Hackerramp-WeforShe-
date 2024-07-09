@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    /* background: rgba(0, 0, 0, 0.5); */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    box-shadow: 0 4px 2px -2px gray;
+
+    z-index: 1000;
+
+}
+
+
+
+.nav {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.nav ul {
+
+    list-style: none;
+    display: flex;
+    gap: 120px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    color: rgb(4, 0, 0);
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.nav ul li:hover {
+    color: #ccc;
+}
