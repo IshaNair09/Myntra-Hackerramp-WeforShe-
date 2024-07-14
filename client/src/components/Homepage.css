@@ -1,0 +1,16 @@
+.homepage {
+    text-align: center;
+    height: 100vh;
+    background-image: url('../../public/background.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 15px;
+}
