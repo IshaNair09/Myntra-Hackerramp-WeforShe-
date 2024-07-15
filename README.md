@@ -34,6 +34,9 @@
 
 <p> Experience the future of fashion with MyntraMuse—where your imagination meets cutting-edge technology. With MyntraMuse, you can effortlessly create one-of-a-kind styles that reflect your individuality, making every shopping experience a personalized and exciting adventure. 
 </p>
+<p><strong>Link to Demo Videos:</strong>
+https://drive.google.com/drive/folders/1kyxk3UIHS01tWxTIKnzJK0qZparjHvCx?usp=sharing
+</p>
 
 ---
 
