@@ -133,6 +133,10 @@ npm install
 4. Share the generated recommendations with friends and family
 
 ---
+## Demo Video & PPT
+[Link](https://drive.google.com/drive/folders/1kyxk3UIHS01tWxTIKnzJK0qZparjHvCx?usp=sharing)
+
+---
 ## Screenshots
 
 <br>
