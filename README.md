@@ -15,24 +15,20 @@
 [![](https://img.shields.io/badge/Made_with-Diffusion-green?style=for-the-badge&logo=diffusion)](https://www.diffusion.ai/)
 [![](https://img.shields.io/badge/Made_with-Accelerate-green?style=for-the-badge&logo=python)](https://github.com/huggingface/accelerate)
 
-
-
-
 </br>
 
 </div>
-
 
 
 ---
 <h2><strong>About</h2></strong>
 <p>In today's age of generative AI, Gen-Z is transforming the fashion landscape with a strong emphasis on creativity and personalized styles. Traditional online shopping often falls short, lacking the customization and innovation that young shoppers desire, making the experience feel impersonal and uninspired. </p>
 
-<p>MyntraMuse is here to bridge this gap by empowering users to design their dream outfits with ease. Leveraging advanced AI technology, MyntraMuse allows Gen-Z fashion enthusiasts to input their style ideas and preferences, generating custom fashion designs that are uniquely tailored to their vision. Whether you're looking to create a standout piece or find inspiration for your next fashion statement, MyntraMuse provides the perfect platform.
+<p>MyntraMuse is here to bridge this gap by empowering users to design their dream outfits with ease. Leveraging AI technology, MyntraMuse allows Gen-Z fashion enthusiasts to input their style ideas and preferences, generating custom fashion designs that are uniquely tailored to their vision. Whether you're looking to create a standout piece or find inspiration for your next fashion statement, MyntraMuse provides the perfect platform.
   </p>
 
 
-<p> Experience the future of fashion with MyntraMuse—where your imagination meets cutting-edge technology. With MyntraMuse, you can effortlessly create one-of-a-kind styles that reflect your individuality, making every shopping experience a personalized and exciting adventure. 
+<p> Experience the future of fashion with MyntraMuse, where your imagination meets cutting edge technology. With MyntraMuse, you can effortlessly create one of a kind styles that reflect your individuality, making every shopping experience a personalized and exciting adventure. 
 </p>
 
 
@@ -44,7 +40,7 @@
 
 * Seamless Integration with Online Shopping
 
-* User-Friendly Interface
+* User Friendly Interface
 
 * Personalized Fashion Recommendations
 
@@ -147,8 +143,6 @@ npm install
 
 ---
 
-
-
 <br>
 <h2 align="center"><b>Developed by Team PowerPuff Girls</b></h2><br>
 
@@ -158,18 +152,6 @@ npm install
 [![](https://img.shields.io/badge/LinkedIn-Ritika_Nankar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritika-nankar-739430210/)
 
 [![](https://img.shields.io/badge/LinkedIn-Pavit_Kaur-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavit-kaur-8b990b279/)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
