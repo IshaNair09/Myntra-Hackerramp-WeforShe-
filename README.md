@@ -24,13 +24,10 @@
 <h2><strong>About</h2></strong>
 <p>In today's age of generative AI, Gen-Z is transforming the fashion landscape with a strong emphasis on creativity and personalized styles. Traditional online shopping often falls short, lacking the customization and innovation that young shoppers desire, making the experience feel impersonal and uninspired. </p>
 
-<p>MyntraMuse is here to bridge this gap by empowering users to design their dream outfits with ease. Leveraging AI technology, MyntraMuse allows Gen-Z fashion enthusiasts to input their style ideas and preferences, generating custom fashion designs that are uniquely tailored to their vision. Whether you're looking to create a standout piece or find inspiration for your next fashion statement, MyntraMuse provides the perfect platform.
-  </p>
-
+<p>MyntraMuse is here to bridge this gap by empowering users to design their dream outfits with ease. Leveraging AI technology, MyntraMuse allows Gen-Z fashion enthusiasts to input their style ideas and preferences, generating custom fashion designs that are uniquely tailored to their vision. Whether you're looking to create a standout piece or find inspiration for your next fashion statement, MyntraMuse provides the perfect platform.</p>
 
 <p> Experience the future of fashion with MyntraMuse, where your imagination meets cutting edge technology. With MyntraMuse, you can effortlessly create one of a kind styles that reflect your individuality, making every shopping experience a personalized and exciting adventure. 
 </p>
-
 
 ---
 
@@ -52,9 +49,8 @@
 
 ---
 
-<h2><strong>Workflow</h2></strong>
+<h2><strong>Website FLow</h2></strong>
 
-<h2>Website</h2>
 <img src="assets\WebsiteFlow.png"> <br>
 
 <br>
